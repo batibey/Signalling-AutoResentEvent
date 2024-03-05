@@ -1,0 +1,15 @@
+/Users/mustafabati/Desktop/MultiThread/AutoResentEventProject/AutoResentEventProject/bin/Debug/net7.0/AutoResentEventProject
+/Users/mustafabati/Desktop/MultiThread/AutoResentEventProject/AutoResentEventProject/bin/Debug/net7.0/AutoResentEventProject.deps.json
+/Users/mustafabati/Desktop/MultiThread/AutoResentEventProject/AutoResentEventProject/bin/Debug/net7.0/AutoResentEventProject.runtimeconfig.json
+/Users/mustafabati/Desktop/MultiThread/AutoResentEventProject/AutoResentEventProject/bin/Debug/net7.0/AutoResentEventProject.dll
+/Users/mustafabati/Desktop/MultiThread/AutoResentEventProject/AutoResentEventProject/bin/Debug/net7.0/AutoResentEventProject.pdb
+/Users/mustafabati/Desktop/MultiThread/AutoResentEventProject/AutoResentEventProject/obj/Debug/net7.0/AutoResentEventProject.csproj.AssemblyReference.cache
+/Users/mustafabati/Desktop/MultiThread/AutoResentEventProject/AutoResentEventProject/obj/Debug/net7.0/AutoResentEventProject.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mustafabati/Desktop/MultiThread/AutoResentEventProject/AutoResentEventProject/obj/Debug/net7.0/AutoResentEventProject.AssemblyInfoInputs.cache
+/Users/mustafabati/Desktop/MultiThread/AutoResentEventProject/AutoResentEventProject/obj/Debug/net7.0/AutoResentEventProject.AssemblyInfo.cs
+/Users/mustafabati/Desktop/MultiThread/AutoResentEventProject/AutoResentEventProject/obj/Debug/net7.0/AutoResentEventProject.csproj.CoreCompileInputs.cache
+/Users/mustafabati/Desktop/MultiThread/AutoResentEventProject/AutoResentEventProject/obj/Debug/net7.0/AutoResentEventProject.dll
+/Users/mustafabati/Desktop/MultiThread/AutoResentEventProject/AutoResentEventProject/obj/Debug/net7.0/refint/AutoResentEventProject.dll
+/Users/mustafabati/Desktop/MultiThread/AutoResentEventProject/AutoResentEventProject/obj/Debug/net7.0/AutoResentEventProject.pdb
+/Users/mustafabati/Desktop/MultiThread/AutoResentEventProject/AutoResentEventProject/obj/Debug/net7.0/AutoResentEventProject.genruntimeconfig.cache
+/Users/mustafabati/Desktop/MultiThread/AutoResentEventProject/AutoResentEventProject/obj/Debug/net7.0/ref/AutoResentEventProject.dll
